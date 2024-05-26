@@ -8,7 +8,7 @@ import { Avatar } from '@chakra-ui/react'
 
 
 const MODEL_NAME = "gemini-1.5-pro-latest";
-const API_KEY = "AIzaSyBVbsWCaUx7yxN2hN8028rO67t1vlQSsc4"; // Replace with your actual API key
+const API_KEY = "XXXXXXXXXXXXXXXXXXX"; // Replace with your actual API key
 
 export default function Chatbox() {
     const [userInput,setUserInput]=useState("");
